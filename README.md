@@ -1,6 +1,13 @@
-# 📱 Protótipo do App
+# Projeto - Aplicativo da Faculdade
 
-Aqui estão as telas do aplicativo criadas no Figma:
+Este repositório contém as telas criadas no Figma para o desenvolvimento de um aplicativo voltado para gestão de uma faculdade. As telas abordam as etapas de cadastramento para diferentes tipos de usuários.
+
+## Tipos de Usuários
+
+O aplicativo foi projetado para permitir o cadastro de cinco tipos de usuários, cada um com suas respectivas etapas de registro. A seguir, estão listados os tipos de usuário e as telas associadas a cada um.
+
+### 1. Aluno
+A tela de cadastro de aluno permite que o usuário forneça informações como nome, data de nascimento, e-mail e senha que será utilizada.
 
 ## Tela de Carregamento
 ![Tela de Carregamento](https://github.com/wagnermfds/IntegradorSenac/blob/main/telas/Tela%20de%20carregamento.png?raw=true)
@@ -16,9 +23,6 @@ Aqui estão as telas do aplicativo criadas no Figma:
 
 ## Tela Cadastro Aluno
 ![Tela Cadastro Aluno](https://github.com/wagnermfds/IntegradorSenac/blob/main/telas/Tela%20Cadastro%20Aluno.png?raw=true)
-
-## Tela Preenchimento de dados
-![Tela Preenchimento de dados](https://github.com/wagnermfds/IntegradorSenac/blob/main/telas/Tela%20Preenchimento%20de%20dados.png?raw=true)
 
 ## Tela Preenchimento de dados
 ![Tela Preenchimento de dados](https://github.com/wagnermfds/IntegradorSenac/blob/main/telas/Tela%20Preenchimento%20de%20dados.png?raw=true)
